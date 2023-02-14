@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Заголовок документу</title>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
+  </body>
+</html>
